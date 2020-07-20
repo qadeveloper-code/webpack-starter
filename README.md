@@ -16,4 +16,8 @@ Build
 npm run build
 ```
 
-Instalaciones de paquetes
+Start
+
+```
+npm run start
+```
